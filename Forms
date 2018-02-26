@@ -1,0 +1,34 @@
+<html>
+<form>
+<p>
+Company Name:
+<input type= "text" name="Company Name">
+<input type= "Submit" name= "Submit" />
+</p>
+<p>
+Position:
+<input type= "text" name="Position">
+<input type= "Submit" name="Submit" />
+</p>
+<p>
+Location:
+<input type= "text" name="Location">
+<input type="Submit" value="Submit" />
+</p>
+<p>
+<label for= "Vacation Date"> Vacation Date: </label>
+<input type= "date" name="depart"
+id= "Vacation days"/>
+<input type= "Submit" value= "Submit"/>
+</p>
+<p>
+<label for= "Vacation Pay"> Vacation Pay: </label>
+<input type= "dollar amount" name="Vacation Pay"/>
+<input type= "Submit" value= "Submit" />
+</p>
+<p>Password:
+<input type= "Password" name="Password" size="15" maxlength= "30"/>
+<input type= "Submit" value= "Submit" />
+</p>
+</form>
+</html>
