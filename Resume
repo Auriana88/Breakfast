@@ -1,0 +1,45 @@
+<html>
+<head>
+<a href= "my.css"></a>
+</head>
+<h1 id="Top">
+Auriana Hollister
+</h1>
+<a href= "#Objectives"> Objectives</a> -
+<a href= "#Experience">Experience</a> -
+<a href= "#Education">Education</a> -
+<a href= "#Skills">Skills</a>
+<h2 id= "Objectives">
+Objectives
+</h2>
+<p>
+My objective is to be an addition to a company that shares the same values as I do and allows growth within the company in different avenues.
+</p>
+<h3 id="Experience">
+Experience
+</h3>
+<ul>
+<li><b>Buffalo Wild Wings</b> <i>Server</i>: Handling customers wants to the best of my/ companies abilities.</li>
+</ul>
+<h4 id="Education">
+Education
+</h4>
+<p>
+<ul>
+<li> Howard University School of Business: MBA COBIS <i> May 2020</i></li>
+<li>Forest Park High School <i>2016 Graduate</i></li>
+</ul>
+</p>
+<h5 id="Skills">
+Skills
+</h5>
+<p>
+<ul>
+<li>Microsoft Suite</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Beginner Java</li>
+</ul>
+</p>
+<a href= "#Top">Top</a>
+</html>
